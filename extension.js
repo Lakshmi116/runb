@@ -61,7 +61,7 @@ function activate(context) {
 
 
 		// Display a message box to the user
-		vscode.window.showInformationMessage('Hey Lakshmi!');
+		vscode.window.showInformationMessage('Hey Lakshmi how do you do!');
 	});
 
 	context.subscriptions.push(disposable);
